@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scss-module-example/static/css/main.a6a41939.chunk.css",
+    "main.js": "/scss-module-example/static/js/main.afbf89e8.chunk.js",
+    "main.js.map": "/scss-module-example/static/js/main.afbf89e8.chunk.js.map",
+    "runtime-main.js": "/scss-module-example/static/js/runtime-main.ef01b70d.js",
+    "runtime-main.js.map": "/scss-module-example/static/js/runtime-main.ef01b70d.js.map",
+    "static/js/2.6366d280.chunk.js": "/scss-module-example/static/js/2.6366d280.chunk.js",
+    "static/js/2.6366d280.chunk.js.map": "/scss-module-example/static/js/2.6366d280.chunk.js.map",
+    "index.html": "/scss-module-example/index.html",
+    "precache-manifest.6e2229136e435fd0d283988b94c567ea.js": "/scss-module-example/precache-manifest.6e2229136e435fd0d283988b94c567ea.js",
+    "service-worker.js": "/scss-module-example/service-worker.js",
+    "static/css/main.a6a41939.chunk.css.map": "/scss-module-example/static/css/main.a6a41939.chunk.css.map",
+    "static/js/2.6366d280.chunk.js.LICENSE.txt": "/scss-module-example/static/js/2.6366d280.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef01b70d.js",
+    "static/js/2.6366d280.chunk.js",
+    "static/css/main.a6a41939.chunk.css",
+    "static/js/main.afbf89e8.chunk.js"
+  ]
+}
