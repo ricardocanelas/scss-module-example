@@ -1,0 +1,34 @@
+@import "../../variables.scss";
+
+// Convention:
+// Use .root class as a base.
+// Use .{prop}-{value} convention for style props. E.g. .color-primary
+// Use .{prop} convention if the prop value is boolean
+
+.root {
+  background-color: #ccc;
+  border: 1px solid #afafaf;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  padding: var(--space-1) var(--space-2);
+  span {
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+}
+
+.variant-primary {
+  color: darken($primary, 50%);
+  border-color: darken($primary, 50%);
+  background-color: $primary;
+}
+
+.variant-secondary {
+  color: var(--color-secondary-900);
+  border-color: var(--color-secondary-900);
+  background-color: var(--color-secondary);
+}
+
+.actived {
+  border-width: 3px;
+}
